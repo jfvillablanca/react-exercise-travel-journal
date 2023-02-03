@@ -31,7 +31,11 @@ nav {
 }
 
 .card {
+    margin: 0 2rem;
+    margin-top: 2rem;
     display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
 }
 
 .card--image {
