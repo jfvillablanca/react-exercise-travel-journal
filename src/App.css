@@ -52,6 +52,10 @@ nav {
     transform: translateX(-25%);
 }
 
+.card--info {
+    width: 60vw;
+}
+
 .card--dates {
     font-weight: 700;
 }
