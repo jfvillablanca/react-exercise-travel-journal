@@ -56,6 +56,12 @@ nav {
     width: 60vw;
 }
 
+.card--info :first-child {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
 .card--dates {
     font-weight: 700;
 }
