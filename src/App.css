@@ -25,3 +25,20 @@ nav {
     width: auto;
     justify-self: left;
 }
+
+.card {
+    display: grid;
+}
+
+.card--image {
+    height: 40rem;
+    width: 30rem;
+    overflow: hidden;
+    border-radius: 2rem;
+}
+
+.card--image img {
+    height: inherit;
+    object-fit: cover;
+    transform: translateX(-25%);
+}
