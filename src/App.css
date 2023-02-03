@@ -76,6 +76,11 @@ nav {
     letter-spacing: 1px;
 }
 
+.card--title {
+    font-size: 3rem;
+    font-family: 'Barlow', sans-serif;
+}
+
 .card--dates {
     font-weight: 700;
 }
