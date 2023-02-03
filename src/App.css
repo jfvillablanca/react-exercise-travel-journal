@@ -51,3 +51,7 @@ nav {
     object-fit: cover;
     transform: translateX(-25%);
 }
+
+.card--dates {
+    font-weight: 700;
+}
