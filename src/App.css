@@ -62,6 +62,20 @@ nav {
     gap: 1rem;
 }
 
+.card--location,
+.card--google-maps {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    align-items: center;
+    gap: 1rem;
+}
+
+.card--location h3 {
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
 .card--dates {
     font-weight: 700;
 }
